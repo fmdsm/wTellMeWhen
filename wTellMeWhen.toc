@@ -1,0 +1,12 @@
+## Interface: 50100
+## Title: [開發中]wTellMeWhen
+## Author: wind
+## Version: 0.5
+## Dependencies : wBar,wDebug
+## Notes: 
+
+#ActionBarFrame.xml
+wLib.lua
+script.lua
+cfg.lua
+core.lua
